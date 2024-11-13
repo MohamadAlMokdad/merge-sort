@@ -11,4 +11,4 @@ The `merge_sort` function recursively divides the array into two halves until ea
 arr = [38, 27, 43, 3, 9, 82, 10]
 
 # Expected output:
-# Sorted array using Merge Sort: [3, 9, 10, 27, 38, 43, 82]
+Sorted array using Merge Sort: [3, 9, 10, 27, 38, 43, 82]
